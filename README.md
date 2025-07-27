@@ -1,85 +1,71 @@
-# 🚀 IBM Data Science Professional Certificate 📊
+# 👋 Hey there! I’m Deepak – Your Friendly Data Science Explorer 👨‍💻🚀
 
-<img src="https://i.imgur.com/YCFnjvg.png" alt="IBM Data Science Banner" width="45%">
+I’m an Electrical and Electronics grad who took a wild turn into the world of **data, code, and intelligent predictions**.  
+After some time coding APIs and scaling microservices in the IT jungle 🌴, I dove deep into the ocean of **data science** with IBM's Professional Certificate.
 
-> A journey from curiosity to confidence in Data Science!
-
----
-
-## 👨‍🏫 Instructor:
-**Dr. Joseph Santarcangelo**  
-Data Scientist at IBM (a.k.a. the one who made learning fun!)
+> 🎯 Why? Because data tells stories. And I want to become the guy who understands and retells them with insight, empathy, and a bit of swagger 😎.
 
 ---
 
-## 🧠 About this Repo
+## 🎓 IBM Data Science Professional Certificate
 
-This repository is your all-in-one stop for:
-- ✅ Completed course modules  
-- 📝 Quiz answers & assignments  
-- 📌 Ongoing progress updates  
-- 📚 Handy notes for revision  
-- 🤖 Real-world use cases where applicable
+<img src="https://images.credly.com/size/680x680/images/28944969-813a-43b9-944f-373f3b4a954c/Data_Science_Professiona_Certificate.png" width="100" align="left">
 
-Yep, I’m still on this data science rollercoaster—so stay tuned for fresh updates as I conquer new modules.
+✅ **Certified by IBM & Coursera**  
+📅 **Date**: [View Certificate – July 2025](https://www.coursera.org/account/accomplishments/professional-cert/2BQGKQ0CGIE7)  
+🔗 **Digital Badge**: [Credly IBM Badge](https://www.credly.com/badges/2caa36f7-aaa9-4ea4-9a17-70c63ccabc6e/public_url)
 
-> **Specialization Link:**  
-> [IBM Data Science Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+<br clear="left" />
 
----
-
-## 🎯 Course Checklist
-
-Here’s what I’ve completed so far (and yep, every tick = hours of caffeine ☕ and keyboard tapping 🎯):
-
-- [x] **What is Data Science?**  
-  *Intro to the big picture, and why data is the new oil.*
-
-- [x] **Open Source Tools for Data Science**  
-  *Jupyter Notebooks, RStudio, Git, and more nerdy goodness.*
-
-- [x] **Data Science Methodology**  
-  *Structured thinking = Better models = Happier data scientist.*
-
-- [x] **Python for Data Science and AI**  
-  *The real coding starts here – pandas, numpy, and matplotlib.*
-
-- [x] **Databases and SQL for Data Science**  
-  *Tables, joins, queries — SELECTing my favorite course so far!*
-
-- [x] **Data Analysis with Python**  
-  *Cleaning, wrangling, and dancing with data 🕺.*
-
-- [x] **Data Visualization with Python**  
-  *Make your graphs speak louder than words.*
-
-- [x] **Machine Learning with Python**  
-  *This is where the magic (and a bit of confusion) begins...*
-
-- [x] **Applied Data Science Capstone**  
-  *Final boss level unlocked. Real-world data, real-world insights.*
+This repository is a **complete walk-through** of my journey across all 9 courses of the specialization – with:
+- 🧠 Notes
+- ✅ Quiz Solutions
+- 📂 Folder-wise breakdowns
+- ⚒️ Some cool side projects coming soon!
 
 ---
 
-## 🔄 Future Plans
+## 📦 Courses in This Specialization
 
-- Add mini-projects for each module  
-- Integrate Jupyter Notebooks with inline outputs  
-- Create summary PDFs for quick revision  
-- Maybe even a ✨ Streamlit dashboard ✨ to visualize my journey
+_“Consistency is the secret sauce here 💯”_
+
+| No. | Course Title | Instructor(s) | Grade | Completed On | Certificate | Folder |
+|-----|--------------|---------------|-------|---------------|-------------|--------|
+| 1️⃣ | What is Data Science? | Rav Ahuja, Alex Aklson | 90.83% | Jan 9, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/01-What-is-Data-Science) |
+| 2️⃣ | Open Source Tools for Data Science | Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler | 89.83% | Jan 9, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/02-Open-Source-Tools) |
+| 3️⃣ | Data Science Methodology | Alex Aklson, Polong Lin | 94% | Jan 9, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/03-Methodology) |
+| 4️⃣ | Python for Data Science, AI & Development | Joseph Santarcangelo | 97% | Jan 10, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/04-Python-for-Data-Science) |
+| 5️⃣ | Python Project for Data Science | Azim Hirjani, Joseph Santarcangelo | 78.33% | Jan 10, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/05-Python-Project) |
+| 6️⃣ | Databases and SQL for Data Science with Python | Rav Ahuja, Hima Vasudevan | 93% | Jan 10, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/06-SQL-Databases) |
+| 7️⃣ | Data Analysis with Python | Joseph Santarcangelo | 94.20% | Mar 24, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/07-Data-Analysis) |
+| 8️⃣ | Data Visualization with Python | Saishruthi Swaminathan, Dr. Pooja | 96.50% | Mar 24, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/08-Data-Visualization) |
+| 9️⃣ | Machine Learning with Python | Joseph Santarcangelo, Jeff Grossman | 96.19% | Mar 24, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/09-Machine-Learning) |
+| 🔟 | Applied Data Science Capstone | Yan Luo, Joseph Santarcangelo | 96.66% | Jul 26, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/10-Capstone) |
+| 🔁 | Generative AI: Elevate Your DS Career | Rav Ahuja, Abhishek Gagneja, Dr. Pooja | 100% | Jul 26, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/11-Generative-AI) |
+| 🧭 | Data Scientist Career Guide & Interview Prep | IBM Skills Network Team | 85% | Jul 26, 2025 | [View](#) | [Link](https://github.com/your-username/repo-name/tree/main/12-Career-Guide) |
+
+Total: **12 courses** completed by **DHEEPAK KARAN ES** 
+> 📌 _Pro Tip:_ You can bookmark each folder if you're revising one course at a time.
 
 ---
 
-## 😄 Wanna Collaborate?
+## 🚧 What’s Cooking?
 
-If you’re also on your IBM Data Science journey, let’s connect!  
-Drop a star ⭐ if this repo helped you (it’ll make my day!) or raise a PR if you’d like to contribute.
-
----
-
-📬 **Let’s talk data**  
-Ping me on [LinkedIn](#) or open an issue if you have any feedback, suggestions, or just wanna say hi!
+- 🎯 Working on project-based mini-apps using course concepts.
+- 📝 Summarising each course in PDF for revision.
+- 🌐 Planning to launch a **Streamlit dashboard** of capstone output!
 
 ---
 
-🏁 *Learning never stops... and neither does version control!*
+## 💬 Wanna Connect?
+
+If you're working on the same certi, or you’ve got advice, doubts, memes, or energy to share…
+
+📩 Ping me on LinkedIn – [Let’s grow together!](https://www.linkedin.com/in/your-link)
+
+⭐ Star this repo if you liked the content!  
+🧑‍💻 PRs are welcome if you want to contribute or fix anything!
+
+---
+
+> _Learning Data Science is not a race, it’s a marathon – with detours for debugging, rabbit holes, and lightbulb moments_ 💡
