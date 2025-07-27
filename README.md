@@ -1,11 +1,7 @@
-# 👋 Hey there! I’m Deepak – Your Friendly Data Science Explorer 👨‍💻🚀
+Hey there! I’m Dheepak
 
-I’m an Electrical and Electronics grad who took a wild turn into the world of **data, code, and intelligent predictions**.  
-After some time coding APIs and scaling microservices in the IT jungle 🌴, I dove deep into the ocean of **data science** with IBM's Professional Certificate.
-
-> 🎯 Why? Because data tells stories. And I want to become the guy who understands and retells them with insight, empathy, and a bit of swagger 😎.
-
----
+🎓 This IBM certification wasn’t just about earning a badge — it was about levelling up my thinking.  
+It gave me the tools, the mindset, and the confidence to tackle real-world data problems with intent 💪🏽
 
 ## 🎓 IBM Data Science Professional Certificate
 
