@@ -16,9 +16,7 @@
 <br clear="left" />
 Hey there! I’m Dheepak
 
-This certification wasn’t just about earning a badge — it was about levelling up my thinking.  
-It gave me the tools, the mindset, and the confidence to tackle real-world data problems with intent 💪🏽
-This repository is a **complete walk-through** of my journey across all 12 courses of the specialization, with:
+This certification wasn’t just about earning a badge — it was about levelling up my thinking.It gave me the tools, the mindset, and the confidence to tackle real-world data problems with intent. This repository is a **complete walk-through** of my journey across all 12 courses of the specialization, with:
 - 🧠 Notes
 - ✅ Quiz Solutions
 - 📂 Folder-wise breakdowns
