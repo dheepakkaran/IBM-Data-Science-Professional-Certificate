@@ -1,5 +1,5 @@
 
-## 🎓 IBM Data Science Professional Certificate
+## IBM Data Science Professional Certificate
 
 <div align="center">
 
@@ -13,12 +13,11 @@
   📜 <a href="https://www.coursera.org/account/accomplishments/professional-cert/2BQGKQ0CGIE7">Coursera Certificate Page</a>
 </p>
 
+<br clear="left" />
 Hey there! I’m Dheepak
+
 This certification wasn’t just about earning a badge — it was about levelling up my thinking.  
 It gave me the tools, the mindset, and the confidence to tackle real-world data problems with intent 💪🏽
-
-<br clear="left" />
-
 This repository is a **complete walk-through** of my journey across all 12 courses of the specialization, with:
 - 🧠 Notes
 - ✅ Quiz Solutions
@@ -56,11 +55,9 @@ Total: **12 courses** completed by **DHEEPAK KARAN ES**
 
 If you're working on the same certi, or you’ve got advice, doubts, memes, or energy to share…
 
-📩 Ping me on LinkedIn – [Let’s grow together!]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/dheepakkaran/))
+📩 Ping me on LinkedIn – [Let’s grow together!]([https://www.linkedin.com/in/dheepakkaran/])
 
 ⭐ Star this repo if you liked the content!  
 🧑‍💻 PRs are welcome if you want to contribute or fix anything!
 
----
 
-> _Learning Data Science is not a race, it’s a marathon – with detours for debugging, rabbit holes, and lightbulb moments_ 💡
