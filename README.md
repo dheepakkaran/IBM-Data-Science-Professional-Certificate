@@ -9,21 +9,18 @@ After some time coding APIs and scaling microservices in the IT jungle 🌴, I d
 
 ## 🎓 IBM Data Science Professional Certificate
 
-<img src="https://images.credly.com/size/680x680/images/28944969-813a-43b9-944f-373f3b4a954c/Data_Science_Professiona_Certificate.png" width="100" align="left">
-
-## 🎓 IBM Data Science Professional Certificate
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="100" />
-
 <div align="center">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2BQGKQ0CGIE7/CERTIFICATE_LANDING_PAGE~2BQGKQ0CGIE7.jpeg" alt="IBM Data Science Certificate" width="600"/>
 
-  <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Badge" width="150"/>
+<img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Data Science Badge" width="150"/>
+
 </div>
 
-> ✅ Certified by **IBM & Coursera**  
-> 🧠 [Credly Digital Badge](https://www.credly.com/badges/2caa36f7-aaa9-4ea4-9a17-70c63ccabc6e/public_url)  
-> 💼 [Coursera Certificate Page](https://www.coursera.org/account/accomplishments/professional-cert/2BQGKQ0CGIE7)
+<p align="center">
+  ✅ <strong>Certified by IBM & Coursera</strong><br>
+  🔗 <a href="https://www.credly.com/badges/2caa36f7-aaa9-4ea4-9a17-70c63ccabc6e/public_url">Credly Digital Badge</a> &nbsp;|&nbsp;
+  📜 <a href="https://www.coursera.org/account/accomplishments/professional-cert/2BQGKQ0CGIE7">Coursera Certificate Page</a>
+</p>
+
 
 
 <br clear="left" />
