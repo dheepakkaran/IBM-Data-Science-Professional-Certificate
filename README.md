@@ -1,6 +1,6 @@
 # 🚀 IBM Data Science Professional Certificate 📊
 
-<img src="https://i.imgur.com/YCFnjvg.png" alt="IBM Data Science Banner" width="100%">
+<img src="https://i.imgur.com/YCFnjvg.png" alt="IBM Data Science Banner" width="45%">
 
 > A journey from curiosity to confidence in Data Science!
 
