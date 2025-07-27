@@ -1,8 +1,4 @@
-Hey there! I’m Dheepak
 
-> This certification wasn’t just about earning a badge — it was about levelling up my thinking.  
-> It gave me the tools, the mindset, and the confidence to tackle real-world data problems with intent 💪🏽
----
 ## 🎓 IBM Data Science Professional Certificate
 
 <div align="center">
@@ -17,7 +13,9 @@ Hey there! I’m Dheepak
   📜 <a href="https://www.coursera.org/account/accomplishments/professional-cert/2BQGKQ0CGIE7">Coursera Certificate Page</a>
 </p>
 
-
+Hey there! I’m Dheepak
+This certification wasn’t just about earning a badge — it was about levelling up my thinking.  
+It gave me the tools, the mindset, and the confidence to tackle real-world data problems with intent 💪🏽
 
 <br clear="left" />
 
