@@ -16,6 +16,7 @@ The final module of this course was a **hands-on project** where I had to apply 
 
 1. **Database Connection**
    - Connect to the IBM DB2 instance using `ibm_db` or `%sql` magic in Jupyter.
+
      ```python
      %sql ibm_db_sa://username:password@hostname:50000/BLUDB
      ```
@@ -28,6 +29,7 @@ The final module of this course was a **hands-on project** where I had to apply 
 4. **Advanced Queries**
    - Perform `INNER JOIN` and `LEFT JOIN` to combine data from multiple tables.
    - Use subqueries to find values above averages or within certain thresholds.
+
      ```sql
      SELECT Name, Salary
      FROM Employees
@@ -37,6 +39,7 @@ The final module of this course was a **hands-on project** where I had to apply 
    - Apply functions like `AVG()`, `COUNT()`, `MAX()`, and `SUM()` to generate summary statistics.
 6. **Advanced Queries**
    - Convert SQL outputs into Pandas DataFrames and perform further analysis.
+
      ```python
      import pandas as pd
      df = %sql SELECT Department, AVG(Salary) AS AvgSalary FROM Employees GROUP BY Department
