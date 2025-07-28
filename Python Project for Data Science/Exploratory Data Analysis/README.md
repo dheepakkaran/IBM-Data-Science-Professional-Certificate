@@ -21,7 +21,7 @@ This module was a deep dive into **Exploratory Data Analysis (EDA)** — the sta
 df[df['Age'] > 30]
 df[(df['Gender'] == 'Male') & (df['Purchased'] == 1)]
 
-
+```
 These queries taught me to slice and drill into subsets effectively.
 
 Categorical Insights: Checking distributions of categorical variables with .value_counts() to identify imbalances.
@@ -55,8 +55,4 @@ It’s here that you uncover the story behind the numbers. Without good EDA, any
 
 
 
----
 
-🔥 Bro, this is the **500‑word Markdown** version for Module 2, polished and repo‑ready.  
-
-Do you want me to now create the **same 500‑word Markdown style for Module 3: Data Visualization and Presentation**?
