@@ -16,9 +16,9 @@ The final module of this course was a **hands-on project** where I had to apply 
 
 1. **Database Connection**
    - Connect to the IBM DB2 instance using `ibm_db` or `%sql` magic in Jupyter.
-   ```python
-   %sql ibm_db_sa://username:password@hostname:50000/BLUDB
-   ```
+     ```python
+     %sql ibm_db_sa://username:password@hostname:50000/BLUDB
+     ```
 2. **Exploring the Tables**
    - Write queries to list all tables in the database.
    - Inspect schema to understand available columns and data types.
@@ -32,16 +32,16 @@ The final module of this course was a **hands-on project** where I had to apply 
      SELECT Name, Salary
      FROM Employees
      WHERE Salary > (SELECT AVG(Salary) FROM Employees);
-   ```
+     ```
 5. **Aggregate Analysis**
    - Apply functions like `AVG()`, `COUNT()`, `MAX()`, and `SUM()` to generate summary statistics.
 6. **Advanced Queries**
    - Convert SQL outputs into Pandas DataFrames and perform further analysis.
      ```python
      import pandas as pd
-     df = %sql SELECT Department, AVG(Salary) AS AvgSalary FROM Employees        GROUP BY Department
+     df = %sql SELECT Department, AVG(Salary) AS AvgSalary FROM Employees GROUP BY Department
      pd.DataFrame(df, columns=['Department', 'AvgSalary'])
-   ```
+     ```
 7. **Final Report**
    - Document queries, results, and insights in Markdown.
    - Summarize findings clearly as if presenting to a stakeholder.
